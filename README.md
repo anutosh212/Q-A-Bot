@@ -1,3 +1,3 @@
 # Q-A-Bot
 AI assistant using Groq API
-\ simple Q&A bot
+\n simple Q&A bot
